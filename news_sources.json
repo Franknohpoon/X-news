@@ -1,14 +1,20 @@
 {
   "예측시장": {
-    "rss": [],
-    "twitter_accounts": [
-      "@Polymarket",
-      "@Kalshi",
-      "@opinionlabsxyz",
-      "@trylimitless",
-      "@predictdotfun",
-      "@meleemarkets"
+    "rss": [
+      "https://beincrypto.com/news/feed",
+      "https://www.investing.com/rss"
     ],
+    "twitter_accounts": [],
+    "telegram_channels": []
+  },
+  "AI": {
+    "rss": [
+      "https://news.mit.edu/rss/topic/artificial-intelligence",
+      "https://www.artificialintelligence-news.com/feed/rss/",
+      "https://aibusiness.com/rss.xml",
+      "https://www.wired.com/feed/tag/ai/latest/rss"
+    ],
+    "twitter_accounts": [],
     "telegram_channels": []
   },
   "정치": {
