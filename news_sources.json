@@ -1,0 +1,38 @@
+{
+  "예측시장": {
+    "rss": [],
+    "twitter_accounts": [
+      "@Polymarket",
+      "@Kalshi",
+      "@opinionlabsxyz",
+      "@trylimitless",
+      "@predictdotfun",
+      "@meleemarkets"
+    ],
+    "telegram_channels": []
+  },
+  "정치": {
+    "rss": [
+      "https://www.chosun.com/arc/outboundfeeds/rss/politics/?outputType=xml",
+      "https://rss.hankyung.com/politics.xml"
+    ],
+    "twitter_accounts": [],
+    "telegram_channels": []
+  },
+  "경제": {
+    "rss": [
+      "https://rss.hankyung.com/new/news.xml",
+      "https://www.mk.co.kr/rss/30000001/",
+      "https://www.sedaily.com/RSS/S01.xml"
+    ],
+    "twitter_accounts": [],
+    "telegram_channels": []
+  },
+  "연예": {
+    "rss": [
+      "https://www.mk.co.kr/rss/50200011/"
+    ],
+    "twitter_accounts": [],
+    "telegram_channels": []
+  }
+}
